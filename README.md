@@ -1,19 +1,15 @@
 
 
 <h1 align="center">Hi 👋, I'm Mrigendra Prasad</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
 
-
-
-
-
-<p align="left" style="margin:100px auto;"> <a href="https://twitter.com/mrkoder108" target="blank"><img src="https://img.shields.io/twitter/follow/mrkoder108?logo=twitter&style=for-the-badge" alt="mrkoder108" /></a> </p>
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
 - 💬 Ask me about **Javascript, React.js Python, Django**
 
 - 📫 How to reach me **prasadmrigendra47@gmail.com**
+
+- 
 
 <h3 align="center">Connect with me:</h3>
 
