@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **prasadmrigendra47@gmail.com**
 
-- 
-
 <h3 align="center">Connect with me:</h3>
 
 
